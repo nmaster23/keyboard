@@ -1,0 +1,3 @@
+In this entry I finished up the entirety of the schematic portion of the PCB design for the keyboard. I spent a total of 5 hours between research designing and deciding which layout to use.
+[File](![Image](<Assets/Screenshot 2026-06-10 214425.png>))
+This above is a screenshot of the fully finished base schematic. I might add on additional things like an OLED display and/or a rotary encoder for additional control. But this is most of it done.
