@@ -1,0 +1,2 @@
+This is my second devlog. This is to mark 7 hours. I finished up the entire schematic by adding in all of the inputs I want. I used up all the pins too.
+Image: ![alt text](<Screenshot 2026-06-14 203843.png>)
