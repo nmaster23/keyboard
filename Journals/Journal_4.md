@@ -1,0 +1,2 @@
+This is my 4th devlog to mark 9 hours of work. I finished most of the PCB. I did the entire layout. I had to redo the entire PCB because I had messed up parts of the schematic. (I accidentally put capacitors between VBUS and VDD for the leds. VBUS is DC and capacitors don't led DC pass.)
+Image: ![alt text](<Screenshot 2026-06-17 224817.png>)
