@@ -1,0 +1,2 @@
+This is my 5th devlog to mark 12 hours of work. I finished the entirety of the PCB. Now all I need to do is just run checks and make sure everything is electrically correct and as it should be.
+Image: ![alt text](<Assets\Screenshot 2026-06-24 121239.png>)

@@ -1,2 +1,2 @@
 This is my 3rd devlog to mark 9 hours of work. I finished most of the PCB. I did the entire layout. I placed all of the keys in their correct places. I also put the diodes for the keys there as well. I also put the leds and their capacitor. I am now working on just wiring everything up, which after I am done will mean I can submit it.
-Image: ![alt text](<Screenshot 2026-06-15 190434.png>)
+Image: ![alt text](<Assets/Screenshot 2026-06-15 190434.png>)
